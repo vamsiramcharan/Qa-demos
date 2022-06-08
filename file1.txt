@@ -1,2 +1,3 @@
 hi,
 This is file1 of git practice.
+This file is being modified now after cloning.
