@@ -1,3 +1,6 @@
 hi,
 This is file1 of git practice.
 This file is being modified now after cloning.
+
+after branching i am adding this line.
+to check what is the functionality of branching.
